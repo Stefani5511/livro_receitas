@@ -52,6 +52,3 @@ Adicione uma captura de tela da tela de detalhes da receita na pasta `assets`, c
 Clique no link abaixo para baixar o aplicativo:
 
 [**Baixar APK**](assets/app-release.apk)
-
-
-"# livro_receitas" 
